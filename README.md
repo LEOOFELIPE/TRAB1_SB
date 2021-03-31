@@ -1,7 +1,9 @@
 # TRAB1_SB
 
 Sistema Operacional onde o código foi feito/compilado/executado: Windows 10 Home Single Language
-Sistema Operacional de 64 bits
+
+Sistema Operacional de 64 
+
 g++ --version: (MinGW.org GCC Build-2) 9.2.0
 
 Para compilar o montador, via vscode:
